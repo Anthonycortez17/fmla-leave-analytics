@@ -1,0 +1,26 @@
+Employee Name: Jane Doe
+Employee ID#: 01234567
+Employee Phone #: (555) 019-2831
+Leave Number: LV-999999
+
+Hire Date: 04/04/2018 Termination Date: 08/24/2025
+Hire Date: 08/25/2025 Termination Date: N/A
+
+Additional information is required to determine eligibility and/or available leave entitlement under STD/FMLA/State law for the above employee. Please reply to this e-mail with the requested information below.
+
+Hours worked:
+
+Total number of actual hours worked during the 12-month period of 8/2/25 through 8/1/26: ___________
+Total number of actual hours worked during the 12-month period of 8/3/25 through 8/2/26: ___________
+Total number of actual hours worked during the 12-month period of 8/4/25 through 8/3/26: ___________
+
+------------------------------------------------------------------------------------------------------------------------
+| Pers.No.|Employee/app.name  |Period|Date      |TmType|TimeTyText  |   Number|Cost Center  |PSubarea |Subarea|Cost Ctr|
+------------------------------------------------------------------------------------------------------------------------
+|  01234567|DOE JANE          |202508|08/02/2025|0701  |Hours Worked|    8.00 |STORE-001    |Retail   |0101   |10001001|
+|  01234567|DOE JANE          |202508|08/03/2025|0701  |Hours Worked|    8.00 |STORE-001    |Retail   |0101   |10001001|
+|  01234567|DOE JANE          |202508|08/04/2025|0701  |Hours Worked|    8.00 |STORE-001    |Retail   |0101   |10001001|
+|  01234567|DOE JANE          |202608|08/01/2026|0701  |Hours Worked|    8.00 |STORE-001    |Retail   |0101   |10001001|
+|  01234567|DOE JANE          |202608|08/02/2026|0701  |Hours Worked|    8.00 |STORE-001    |Retail   |0101   |10001001|
+|  01234567|DOE JANE          |202608|08/03/2026|0701  |Hours Worked|    8.00 |STORE-001    |Retail   |0101   |10001001|
+------------------------------------------------------------------------------------------------------------------------
