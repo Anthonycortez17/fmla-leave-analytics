@@ -1,8 +1,10 @@
 # FMLA & Leave Claim Verifier
 
+**[Live demo](https://fmla-leave-analytics.streamlit.app)** https://fmla-leave-analytics.streamlit.app/
+
 A Python + Streamlit web app that helps HR/benefits analysts verify hours worked for leave-of-absence requests (FMLA / short-term disability). It reads a pasted leave-request email and a pasted time-evaluation export, totals actual hours for each requested period, checks the boundary dates, and produces a formatted Excel report plus a ready-to-send reply.
 
-> **Demo data only.** All names, IDs and numbers in this repository are fictional. Do not paste real employee data into a public deployment.
+> **Demo data only.** All names, IDs and numbers in this repository are fictional. Do not paste real employee or personal information into the live demo.
 
 ## Features
 
